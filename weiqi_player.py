@@ -243,8 +243,8 @@ class Qlearner():
         with open(outfile, "w") as f:
             f.write(Q_vals)
 
-####################################### utility functions copied from assignment starter code ######################################
-# Credits to CSCI 561 teaching staff
+####################################### utility functions copied ######################################
+# Credits to Foundations of Artificial Intelligence teaching staff in 2022
 #########################################################################
 #                       Game Host Object                                #
 #########################################################################

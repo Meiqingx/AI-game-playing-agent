@@ -1,1 +1,1 @@
-A weiqi/igo player based on Q-Learning
+A *weiqi*围棋/*igo*囲碁 player based on Q-Learning
